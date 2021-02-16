@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-bmi-konversi-cicilan-ppn/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/react-bmi-konversi-cicilan-ppn/static/js/main.04a2c007.chunk.js",
+    "main.js.map": "/react-bmi-konversi-cicilan-ppn/static/js/main.04a2c007.chunk.js.map",
+    "runtime-main.js": "/react-bmi-konversi-cicilan-ppn/static/js/runtime-main.465d74ab.js",
+    "runtime-main.js.map": "/react-bmi-konversi-cicilan-ppn/static/js/runtime-main.465d74ab.js.map",
+    "static/css/2.d470c34f.chunk.css": "/react-bmi-konversi-cicilan-ppn/static/css/2.d470c34f.chunk.css",
+    "static/js/2.72221581.chunk.js": "/react-bmi-konversi-cicilan-ppn/static/js/2.72221581.chunk.js",
+    "static/js/2.72221581.chunk.js.map": "/react-bmi-konversi-cicilan-ppn/static/js/2.72221581.chunk.js.map",
+    "index.html": "/react-bmi-konversi-cicilan-ppn/index.html",
+    "static/css/2.d470c34f.chunk.css.map": "/react-bmi-konversi-cicilan-ppn/static/css/2.d470c34f.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/react-bmi-konversi-cicilan-ppn/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.72221581.chunk.js.LICENSE.txt": "/react-bmi-konversi-cicilan-ppn/static/js/2.72221581.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.465d74ab.js",
+    "static/css/2.d470c34f.chunk.css",
+    "static/js/2.72221581.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.04a2c007.chunk.js"
+  ]
+}
